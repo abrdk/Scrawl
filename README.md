@@ -2,8 +2,8 @@
 Note-taking Software
 
 <p align="center">
-    <a href="https://ibb.co/NLxdJrz">
-       <img src="https://i.ibb.co/G0ZmjW2/scrawl-v03.png" width="400"/>
+    <a href="https://ibb.co/RjZMgSZ">
+       <img src="https://i.ibb.co/CPNXwtN/scrawl-v04.png" width="400"/>
     </a>
 </p>
 
